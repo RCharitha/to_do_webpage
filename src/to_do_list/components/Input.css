@@ -1,0 +1,19 @@
+.input {
+    background-color: lightgray;
+    padding:15px;
+    font-style: italic;
+    margin: 50px;
+    align-items: center;
+    font-size: 20px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+.input label{
+    font-style: italic;
+    padding: 10px;
+    
+}
+.input input{
+    margin: 7px;
+    padding: 5px;
+}
